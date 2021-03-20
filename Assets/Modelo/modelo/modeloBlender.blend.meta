@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: f488e4974fe8f364db011261e3f330bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: buro
+    100002: cama
+    100004: cama.001
+    100006: cama.002
+    100008: cama.003
+    100010: escritorio2
+    100012: escritorioModelo1
+    100014: GRIFO
+    100016: LavavoCocina
+    100018: librero
+    100020: LLAVE-L
+    100022: LLAVE-R
+    100024: Mesa del Comedor
+    100026: //RootNode
+    100028: Mueble Tele Sala
+    100030: mueble1
+    100032: mueble1.001
+    100034: mueble2
+    100036: "muebleba\xF1o"
+    100038: "muebleba\xF1o.001"
+    100040: Paredes
+    100042: Plane
+    100044: PUERTA 1
+    100046: PUERTA 1.001
+    100048: PUERTA 2
+    100050: PUERTA 2.001
+    100052: PUERTA 3
+    100054: PUERTA 3.001
+    100056: PUERTA 4
+    100058: PUERTA 4.001
+    100060: Refrigerador
+    100062: Repisas Cocina
+    100064: ropero
+    100066: Silla
+    100068: Silla del comedor
+    100070: Silla del comedor.001
+    100072: Silla del comedor.002
+    100074: Silla del comedor.003
+    100076: Silla.001
+    100078: Silla.002
+    100080: TRAJA
+    100082: LOZETA COCINA
+    100084: Plane.001
+    100086: Cube
+    100088: Cube.001
+    100090: mueble1.002
+    100092: PUERTA 1.002
+    100094: PUERTA 2.002
+    100096: PUERTA 3.002
+    100098: PUERTA 4.002
+    400000: buro
+    400002: cama
+    400004: cama.001
+    400006: cama.002
+    400008: cama.003
+    400010: escritorio2
+    400012: escritorioModelo1
+    400014: GRIFO
+    400016: LavavoCocina
+    400018: librero
+    400020: LLAVE-L
+    400022: LLAVE-R
+    400024: Mesa del Comedor
+    400026: //RootNode
+    400028: Mueble Tele Sala
+    400030: mueble1
+    400032: mueble1.001
+    400034: mueble2
+    400036: "muebleba\xF1o"
+    400038: "muebleba\xF1o.001"
+    400040: Paredes
+    400042: Plane
+    400044: PUERTA 1
+    400046: PUERTA 1.001
+    400048: PUERTA 2
+    400050: PUERTA 2.001
+    400052: PUERTA 3
+    400054: PUERTA 3.001
+    400056: PUERTA 4
+    400058: PUERTA 4.001
+    400060: Refrigerador
+    400062: Repisas Cocina
+    400064: ropero
+    400066: Silla
+    400068: Silla del comedor
+    400070: Silla del comedor.001
+    400072: Silla del comedor.002
+    400074: Silla del comedor.003
+    400076: Silla.001
+    400078: Silla.002
+    400080: TRAJA
+    400082: LOZETA COCINA
+    400084: Plane.001
+    400086: Cube
+    400088: Cube.001
+    400090: mueble1.002
+    400092: PUERTA 1.002
+    400094: PUERTA 2.002
+    400096: PUERTA 3.002
+    400098: PUERTA 4.002
+    2100000: No Name
+    2100002: Azul chido
+    2100004: Cromo
+    2100006: Blanco
+    2100008: Verde chido
+    2100010: Madera
+    2100012: Negro
+    2100014: Rojo chido
+    2100016: Madera Negra
+    2100018: M7 PAPEL TAPIZ NARANJA
+    2100020: M8 APARENTE DE PIEDRA
+    2100022: Gris
+    2100024: Cafe obscuro
+    2100026: M1 COLCHA
+    2100028: Azull Rey
+    2100030: M3 PUERTA LAVAVO
+    2100032: M4 TARJA
+    2100034: M5 MARMOL BLANCO
+    2100036: M7 PORCELANATO
+    2100038: M2 REFRIGERADOR
+    2300000: buro
+    2300002: cama
+    2300004: cama.001
+    2300006: cama.002
+    2300008: cama.003
+    2300010: escritorio2
+    2300012: escritorioModelo1
+    2300014: GRIFO
+    2300016: LavavoCocina
+    2300018: librero
+    2300020: LLAVE-L
+    2300022: LLAVE-R
+    2300024: Mesa del Comedor
+    2300026: Mueble Tele Sala
+    2300028: mueble1
+    2300030: mueble1.001
+    2300032: mueble2
+    2300034: "muebleba\xF1o"
+    2300036: "muebleba\xF1o.001"
+    2300038: Paredes
+    2300040: Plane
+    2300042: PUERTA 1
+    2300044: PUERTA 1.001
+    2300046: PUERTA 2
+    2300048: PUERTA 2.001
+    2300050: PUERTA 3
+    2300052: PUERTA 3.001
+    2300054: PUERTA 4
+    2300056: PUERTA 4.001
+    2300058: Refrigerador
+    2300060: Repisas Cocina
+    2300062: ropero
+    2300064: Silla
+    2300066: Silla del comedor
+    2300068: Silla del comedor.001
+    2300070: Silla del comedor.002
+    2300072: Silla del comedor.003
+    2300074: Silla.001
+    2300076: Silla.002
+    2300078: TRAJA
+    2300080: LOZETA COCINA
+    2300082: Plane.001
+    2300084: Cube
+    2300086: Cube.001
+    2300088: mueble1.002
+    2300090: PUERTA 1.002
+    2300092: PUERTA 2.002
+    2300094: PUERTA 3.002
+    2300096: PUERTA 4.002
+    3300000: buro
+    3300002: cama
+    3300004: cama.001
+    3300006: cama.002
+    3300008: cama.003
+    3300010: escritorio2
+    3300012: escritorioModelo1
+    3300014: GRIFO
+    3300016: LavavoCocina
+    3300018: librero
+    3300020: LLAVE-L
+    3300022: LLAVE-R
+    3300024: Mesa del Comedor
+    3300026: Mueble Tele Sala
+    3300028: mueble1
+    3300030: mueble1.001
+    3300032: mueble2
+    3300034: "muebleba\xF1o"
+    3300036: "muebleba\xF1o.001"
+    3300038: Paredes
+    3300040: Plane
+    3300042: PUERTA 1
+    3300044: PUERTA 1.001
+    3300046: PUERTA 2
+    3300048: PUERTA 2.001
+    3300050: PUERTA 3
+    3300052: PUERTA 3.001
+    3300054: PUERTA 4
+    3300056: PUERTA 4.001
+    3300058: Refrigerador
+    3300060: Repisas Cocina
+    3300062: ropero
+    3300064: Silla
+    3300066: Silla del comedor
+    3300068: Silla del comedor.001
+    3300070: Silla del comedor.002
+    3300072: Silla del comedor.003
+    3300074: Silla.001
+    3300076: Silla.002
+    3300078: TRAJA
+    3300080: LOZETA COCINA
+    3300082: Plane.001
+    3300084: Cube
+    3300086: Cube.001
+    3300088: mueble1.002
+    3300090: PUERTA 1.002
+    3300092: PUERTA 2.002
+    3300094: PUERTA 3.002
+    3300096: PUERTA 4.002
+    4300000: mueble2
+    4300002: "muebleba\xF1o"
+    4300004: "muebleba\xF1o.001"
+    4300006: Paredes
+    4300008: ropero
+    4300010: Silla
+    4300012: Silla.001
+    4300014: Silla.002
+    4300016: Silla del comedor
+    4300018: Silla del comedor.001
+    4300020: Silla del comedor.002
+    4300022: Silla del comedor.003
+    4300024: buro
+    4300026: cama
+    4300028: cama.001
+    4300030: cama.002
+    4300032: cama.003
+    4300034: escritorio2
+    4300036: escritorioModelo1
+    4300038: librero
+    4300040: Mueble Tele Sala
+    4300042: mueble1
+    4300044: mueble1.001
+    4300046: Repisas Cocina
+    4300048: LavavoCocina
+    4300050: PUERTA 1
+    4300052: PUERTA 2
+    4300054: PUERTA 3
+    4300056: PUERTA 4
+    4300058: GRIFO
+    4300060: LLAVE-R
+    4300062: LLAVE-L
+    4300064: TRAJA
+    4300066: PUERTA 1.001
+    4300068: PUERTA 2.001
+    4300070: PUERTA 3.001
+    4300072: PUERTA 4.001
+    4300074: Mesa del Comedor
+    4300076: Plane
+    4300078: Refrigerador
+    4300080: LOZETA COCINA
+    4300082: Plane.001
+    4300084: Cube
+    4300086: Cube.001
+    4300088: mueble1.002
+    4300090: PUERTA 1.002
+    4300092: PUERTA 2.002
+    4300094: PUERTA 3.002
+    4300096: PUERTA 4.002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azul chido
+    second: {fileID: 2100000, guid: e273b07c9f719b145a4936173f64f143, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azull Rey
+    second: {fileID: 2100000, guid: 9ab644d577d6edf4887e14e559dd84c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanco
+    second: {fileID: 2100000, guid: 9497308d094c2d8499b7f9e4e99e1fa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cafe obscuro
+    second: {fileID: 2100000, guid: fbe416c6a1761cb488286916f82427ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cromo
+    second: {fileID: 2100000, guid: 19381418e06738a44893c73ebc5da875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris
+    second: {fileID: 2100000, guid: 2a2a4169a0cfe7a49a1f151f06f3acbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M1 COLCHA
+    second: {fileID: 2100000, guid: 851109c9a10df144abcf0185068225ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M10 AZULEJO
+    second: {fileID: 2100000, guid: e7b85441c6b03434d89a2acb70d0c2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M16 MADERA SALA
+    second: {fileID: 2100000, guid: 0b19f4aec0a4a6f4793626e54ddb1112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M2 REFRIGERADOR
+    second: {fileID: 2100000, guid: 907d342b7ffd4e545b09344de6bf6f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M3 PUERTA LAVAVO
+    second: {fileID: 2100000, guid: 202643033d0b2d6418f3781c5d7973eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M4 TARJA
+    second: {fileID: 2100000, guid: 7a2c517ee6a0ea443ba17a0fa5cb0325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M5 MARMOL BLANCO
+    second: {fileID: 2100000, guid: 801151832c21cc543b4b6e1c7b79c3bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M7 PAPEL TAPIZ NARANJA
+    second: {fileID: 2100000, guid: ade1c12860c489f478589627525d535c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M7 PORCELANATO
+    second: {fileID: 2100000, guid: 9aa38f100c2c28c4da039b02025c5418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M8 APARENTE DE PIEDRA
+    second: {fileID: 2100000, guid: 4026f962aee2072458839256cc70c75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M8 CENEFA COCINA
+    second: {fileID: 2100000, guid: 023edeb2ec0f2214aa74c5ca690b3a94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madera
+    second: {fileID: 2100000, guid: 1aff69dbdb1ec2e4b8f724de294d5d76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madera Negra
+    second: {fileID: 2100000, guid: bdf1d9eed89250444a05344832aa6c1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro
+    second: {fileID: 2100000, guid: a45bc65e7bd3e52458ae00a0c359b9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3fc8ba9875ecd564c9e18b256585da5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rojo chido
+    second: {fileID: 2100000, guid: 56c0a83bbc4193448b052c2eedf89ce4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verde chido
+    second: {fileID: 2100000, guid: 4d6e657c47eaf3148a8d5849fe86a1e9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
