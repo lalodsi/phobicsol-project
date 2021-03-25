@@ -39,5 +39,5 @@ _¿Que cosas necesitas para ver nuestro proyecto y dónde instalarlas?_
 <ul>
   <li><h3>Luis Eduardo Rodríguez Ramírez</h3></li>
   <li><h3>Axel Díaz</h3></li>
-  <li><h3>Néstor Ruíz Mendez</h3></li>
+  <li><h3>Néstor Alberto Ruíz Mendez</h3></li>
 </ul>
